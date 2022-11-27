@@ -7,17 +7,15 @@ export const AboutPage = () => {
         <div className="pt-4 heading_about">
             <h5>Get to know me!</h5>
         </div>
+
         <hr/>
+        
         <div className='row pt-4 container about_container'>
             <div className="col justify-content-center align-self-center about_me">
                 <div className='about_me-image'>
                     <img src={MollyImg} className='img-fluid' alt="Molly Salmonsen Profile Image" />
                 </div>
             </div>
-            {/* <div className='col-sm'>
-
-            </div> */}
-
 
             <div className="col container-sm about-content">
                 <p>
