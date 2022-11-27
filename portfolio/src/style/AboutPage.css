@@ -1,0 +1,27 @@
+/* .about_container {
+    display: flex;
+    flex-direction: column;
+    grid-template-columns: 40% 50%;
+    gap: 10%;
+    padding-top: 2rem;
+} */
+
+/* .about_me {
+    place-items: center;
+} */
+
+.about_me-image {
+    aspect-ratio: 1/1;
+    min-width: 250px;
+    border-radius: 1rem;
+    overflow: hidden;
+    transform: rotate(5deg);
+}
+
+.about_me-image:hover {
+    transform: rotate(0deg);
+}
+
+.col.about-content {
+    padding: 2rem 0rem 0rem 2rem;
+}
