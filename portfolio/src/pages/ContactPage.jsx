@@ -14,4 +14,5 @@ export const ContactPage = () => {
             </form>
         </div>
     </section>
+    // This Form doesn't actually work. It's here for assignment purposes. If user sends a message - nothing happens. 
 }
