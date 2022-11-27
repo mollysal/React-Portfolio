@@ -3,7 +3,9 @@ import { Footer } from './components/Footer';
 import { Header } from './components/Header';
 import { Nav } from './components/Nav';
 import { AboutPage } from './pages/AboutPage';
+import { ContactPage } from './pages/ContactPage';
 import { PortfolioPage } from './pages/Portfolio';
+import { ResumePage } from './pages/ResumePage';
 
 const pages = [
   { name: "about" },
@@ -21,10 +23,10 @@ function App() {
         return <AboutPage />
       case pages[1].name:
         return <PortfolioPage />
-      // case pages[2].name:
-      //   return <Contact />
-      // case pages[3].name:
-      //   return <Resume />
+      case pages[2].name:
+        return <ContactPage />
+      case pages[3].name:
+        return <ResumePage />
       default:
         return <AboutPage />
     }
