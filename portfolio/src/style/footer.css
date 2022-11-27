@@ -1,0 +1,17 @@
+footer {
+    padding: 3rem 0;
+    text-align: center;
+    margin-top: 7rem;
+    background-color: rgb(219, 238, 237);
+}
+
+.content.links {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2rem;
+    margin: 0 aut 3rem;
+}
+footer a {
+    color: var(--color-bg);
+}

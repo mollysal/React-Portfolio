@@ -1,0 +1,13 @@
+.container.projects{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 3rem;
+}
+
+.card {
+    padding: 0.5rem;
+    border-radius: 0.5rem;
+    background: transparent;
+    border: 2px solid rgb(83, 130, 130);
+}
