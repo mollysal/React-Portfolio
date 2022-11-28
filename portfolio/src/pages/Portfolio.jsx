@@ -3,6 +3,7 @@ import { Project } from '../components/Project';
 import { projects } from '../utils/projects';
 import '../style/Portfolio.css';
 
+// Issue with Images Rendering - Need to fix
 export const PortfolioPage = () => {
     return <section>
         <div className='portfolioHeading'>
