@@ -5,8 +5,12 @@ import '../style/Portfolio.css';
 
 export const PortfolioPage = () => {
     return <section>
-        <h1>Recent Projects:</h1>
-        <div className='container projects'>
+        <div className='portfolioHeading'>
+            <h1>Recent Projects:</h1>
+        </div>
+        <hr />
+
+        <div className='container projects mt-5'>
             {projects.map(project => <Project {...project} />)}
         </div>
     </section>

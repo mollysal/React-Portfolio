@@ -1,0 +1,8 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.navbar {
+    background-color: rgb(219, 238, 237) !important;
+    color: rgb(57, 110, 113) !important;
+}

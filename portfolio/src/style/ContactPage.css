@@ -1,3 +1,7 @@
+.contactHeading{
+    color:rgb(83, 130, 130) !important;
+}
+
 .container.contact_container {
     gap: 12%;
 }
@@ -6,6 +10,11 @@ form {
     display: flex;
     flex-direction: column;
     gap: 1.2rem;
+}
+
+.btn.btnCustom {
+    background-color:rgb(83, 130, 130);
+    color:aliceblue;
 }
 
 input, textarea {
