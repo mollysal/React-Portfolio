@@ -2,7 +2,7 @@
 Module 20: React Portfolio
 
 ## Deployed Link
-add link here
+[Deployed Website](https://mollysal.github.io/React-Portfolio/)
 
 ### Preview
 ![preview](portfolio/src/images/ReactPreivew.png)
