@@ -1,17 +1,24 @@
 {
   "files": {
     "main.css": "/React-Portfolio/static/css/main.e6fcdc73.css",
-    "main.js": "/React-Portfolio/static/js/main.378a2db9.js",
+    "main.js": "/React-Portfolio/static/js/main.9faaec91.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/MollySalPhoto.jpg": "/React-Portfolio/static/media/MollySalPhoto.2830791fcca0b253604c.jpg",
+    "static/media/Space&Weather.png": "/React-Portfolio/static/media/Space&Weather.3018e5fe5122461e0f1d.png",
+    "static/media/RapidE.png": "/React-Portfolio/static/media/RapidE.ba1976ff201f9ef6c0f9.png",
+    "static/media/NoteTaker.png": "/React-Portfolio/static/media/NoteTaker.80d3cb7b17f68e1dfab1.png",
+    "static/media/JATE_Installed.png": "/React-Portfolio/static/media/JATE_Installed.1547986ca21b343dc9df.png",
+    "static/media/BalloonStock.jpg": "/React-Portfolio/static/media/BalloonStock.d9bea47234188608575f.jpg",
+    "static/media/CodingQuiz.png": "/React-Portfolio/static/media/CodingQuiz.70deb934f91a5906d3c2.png",
+    "static/media/ReactPreivew.png": "/React-Portfolio/static/media/ReactPreivew.92c1261769eadfc0007b.png",
     "static/media/MS.png": "/React-Portfolio/static/media/MS.1a1760c77cbecedb670f.png",
     "index.html": "/React-Portfolio/index.html",
     "main.e6fcdc73.css.map": "/React-Portfolio/static/css/main.e6fcdc73.css.map",
-    "main.378a2db9.js.map": "/React-Portfolio/static/js/main.378a2db9.js.map",
+    "main.9faaec91.js.map": "/React-Portfolio/static/js/main.9faaec91.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6fcdc73.css",
-    "static/js/main.378a2db9.js"
+    "static/js/main.9faaec91.js"
   ]
 }
